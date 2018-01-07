@@ -1,0 +1,326 @@
+*******************
+[ 21/08/2017 ]
+PRI-00032-FARMATODO
+20170821-ST-001
+Equipos--->: 1
+Entregado: 1
+Cedula: 22760414
+Telefono: 041212
+
+GWRHICCA00000001
+*******************
+[ 21/08/2017 ]
+PRI-00032-FARMATODO
+20170821-ST-001
+Equipos--->: 1
+Entregado: 1
+Cedula: 1
+Telefono: 1
+
+GWRHICCA00001
+*******************
+[ 21/08/2017 ]
+PRI-00034-UNICASA
+20170821-ST-002
+Equipos--->: 1
+Entregado: 2
+Cedula: 2
+Telefono: 2
+
+2
+*******************
+[ 21/08/2017 ]
+PRI-00032-FARMATODO
+20170821-ST-001
+Equipos--->: 1
+Entregado: 1
+Cedula: 1
+Telefono: 1
+
+1
+*******************
+[ 21/08/2017 ]
+PRI-00032-FARMATODO
+20170821-ST-001
+Equipos--->: 1
+Entregado: 1
+Cedula: 1
+Telefono: 1
+
+1
+*******************
+[ 21/08/2017 ]
+PRI-00032-FARMATODO
+20170821-ST-001
+Equipos--->: 1
+Entregado: 1
+Cedula: 1
+Telefono: 1
+
+1
+*******************
+[ 21/08/2017 ]
+PRI-00032-FARMATODO
+20170821-ST-001
+Equipos--->: 1
+Entregado: 1
+Cedula: 1
+Telefono: 1
+
+N
+*******************
+[ 21/08/2017 ]
+PRI-00032-FARMATODO
+20170821-ST-001
+Equipos--->: 1
+Entregado: 1
+Cedula: 1
+Telefono: 1
+
+GWRHICCA11234
+*******************
+[ 21/08/2017 ]
+PRI-00032-FARMATODO
+20170821-ST-001
+Equipos--->: 1
+Entregado: 1
+Cedula: 1
+Telefono: 1
+
+1
+*******************
+[ 21/08/2017 ]
+PRI-00032-FARMATODO
+20170821-ST-001
+Equipos--->: 1
+Entregado: 1
+Cedula: 1
+Telefono: 1
+
+1
+*******************
+[ 21/08/2017 ]
+PRI-00032-FARMATODO
+20170821-ST-001
+Equipos--->: 1
+Entregado: 1
+Cedula: 1
+Telefono: 1
+
+1
+*******************
+[ 21/08/2017 ]
+PRI-00032-FARMATODO
+20170821-ST-001
+Equipos--->: 1
+Entregado: 1
+Cedula: 1
+Telefono: 1
+
+N
+*******************
+[ 21/08/2017 ]
+PRI-00032-FARMATODO
+20170821-ST-001
+Equipos--->: 1
+Entregado: 1
+Cedula: 1
+Telefono: 1
+
+1
+*******************
+[ 21/08/2017 ]
+PRI-00032-FARMATODO
+20170821-ST-001
+Equipos--->: 1
+Entregado: 1
+Cedula: 1
+Telefono: 1
+
+1
+*******************
+[ 21/08/2017 ]
+PRI-00032-FARMATODO
+20170821-ST-001
+Equipos--->: 1
+Entregado: 1
+Cedula: 1
+Telefono: 1
+
+1
+*******************
+[ 21/08/2017 ]
+PRI-00032-FARMATODO
+20170821-ST-0021
+Equipos--->: 1
+Entregado: 1
+Cedula: 1
+Telefono: 1
+
+N
+*******************
+[ 21/08/2017 ]
+PRI-00034-UNICASA
+20170821-ST-00
+Equipos--->: 1
+Entregado: 1
+Cedula: 1
+Telefono: 1
+
+1
+*******************
+[ 21/08/2017 ]
+PRI-00032-FARMATODO
+20170821-ST-001
+Equipos--->: 1
+Entregado: 1
+Cedula: 1
+Telefono: 1
+
+1
+*******************
+[ 21/08/2017 ]
+PRI-00032-FARMATODO
+20170821-ST-001
+Equipos--->: 1
+Entregado: 1
+Cedula: 1
+Telefono: 1
+
+N
+*******************
+[ 21/08/2017 ]
+PRI-00035-Automercados Plazas
+20170821-ST-0012
+Equipos--->: 1
+Entregado: 1
+Cedula: 12
+Telefono: 12
+
+N
+*******************
+[ 21/08/2017 ]
+PRI-00035-Automercados Plazas
+20170821-ST-001
+Equipos--->: 1
+Entregado: LUIS LISCANO
+Cedula: 22760414
+Telefono: 04123645
+
+GWRHICCA00004121
+*******************
+[ 21/08/2017 ]
+PRI-00032-FARMATODO
+20170821-ST-001
+Equipos--->: 1
+Entregado: LLUISCANO
+Cedula: 22760414
+Telefono: 1
+
+1
+*******************
+[ 21/08/2017 ]
+PRI-00032-FARMATODO
+20170821-ST-001
+Equipos--->: 1
+Entregado: 1
+Cedula: 1
+Telefono: 1
+
+1
+*******************
+[ 01/09/2017 ]
+PRI-00032-FARMATODO
+20170901-ST-00r
+Equipos--->: 1
+Entregado: L
+Cedula: h
+Telefono: h+h
+
+JG
+*******************
+[ 22/09/2017 ]
+PRI-00032-FARMATODO
+20170922-ST-001
+Equipos--->: 3
+Entregado: LUI
+Cedula: 2222
+Telefono: 0.21251
+
+GWRHICCA00004145
+GWRHICCA0000414
+GWRHICCA00004144
+*******************
+[ 22/09/2017 ]
+PRI-00032-FARMATODO
+20170922-ST-001
+Equipos--->: 1
+Entregado: LJK
+Cedula: 221
+Telefono: .0412
+
+GWRHICCA00004144
+*******************
+[ 22/09/2017 ]
+PRI-00032-FARMATODO
+20170922-ST-001
+Equipos--->: 1
+Entregado: 1
+Cedula: 1
+Telefono: 1
+
+1
+*******************
+[ 07/01/2018 ]
+PRI-00032-FARMATODO
+20180107-ST-001
+Equipos--->: 1
+Entregado: LUIS LISCANO
+Cedula: 22760414
+Telefono: 04263156740
+
+GWRHICCA00001542
+*******************
+[ 07/01/2018 ]
+PRI-00032-FARMATODO
+20180107-ST-00001
+Equipos--->: 2
+Entregado: LUIS LIS
+Cedula: 22760414
+Telefono: 041654
+
+GWRHICCA00124
+GWRRRER454555
+*******************
+[ 07/01/2018 ]
+PRI-00032-FARMATODO
+20180107-ST-001
+Equipos--->: 1
+Entregado: 1
+Cedula: 1
+Telefono: 1
+
+1
+*******************
+[ 07/01/2018 ]
+PRI-00032-FARMATODO
+20180107-ST-0012
+Equipos--->: 14
+Entregado: 1
+Cedula: 1
+Telefono: 1
+
+11
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
